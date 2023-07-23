@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppToolbar" parent="Widget.AppCompat.Toolbar">
+        <!-- Defina a cor de fundo da Toolbar como a cor primária do seu aplicativo -->
+        <item name="android:background">@color/colorwhite</item>
+    </style>
+
+
+</resources>

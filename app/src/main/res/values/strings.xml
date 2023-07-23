@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TREVOMOBILE</string>
+    <string name="veja_mais">Veja Mais</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="produto">Produto</string>
+    <string name="pesquisar">Pesquisar...</string>
+    <string name="orcamento">Adicionar ao orçamento</string>
+    <string name="beg_store" />
+    <string name="hello_world_hello_world_hello">Hello, World! Hello, World!Hello</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="hello_world_hello_world_hello_world_hello_world_hello_world_hello_world">Hello, World! Hello, World!Hello, World!Hello, World!Hello, World!Hello, World!</string>
+    <string name="cultura">Cultura</string>
+    <string name="inforcuture">Hello, World! Hello, World!Hello</string>
+    <string name="infocuture">Cultura</string>
+    <string name="area_suportada">Área suportada</string>
+    <string name="ver_detalhes">Ver detalhes</string>
+    <string name="order">Orçamento</string>
+    <string name="sendOrder">Enviar solicitação</string>
+    <string name="data_do_envio">Data do envio</string>
+    <string name="infoclienttext">Informações do cliente</string>
+    <string name="app_label" />
+    <string name="search_hint" />
+</resources>
+<!--<View-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="2dp"-->
+<!--android:background="@color/white" />-->
